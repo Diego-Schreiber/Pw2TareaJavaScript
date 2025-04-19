@@ -51,10 +51,10 @@ Se ejecuta en el navegador y contiene:
 
 ## 🧪 Cómo probarlo
 
-1. Abrí la URL publicada del script (en formato https://script.google.com/macros/s/.../exec).
-2. Ingresá una tarea y su descripción.
-3. Hacé clic en "Guardar Tarea".
-4. Verificá que los datos aparezcan en la hoja de cálculo vinculada, en la pestaña llamada Tareas.
+1. Abrir la URL publicada del script (en formato https://script.google.com/macros/s/AKfycbyrEtqVTdUcyKobhbkfrhbR92LbXHrfa2qNiFdcDLPXQeyzIXCbdrxuTEtzDF5rHANk-g/exec).
+2. Ingrear una tarea y su descripción.
+3. Hacer clic en "Guardar Tarea".
+4. Verificar que los datos aparezcan en la hoja de cálculo vinculada, en la pestaña llamada Tareas.
 
 ---
 
@@ -69,13 +69,11 @@ Se ejecuta en el navegador y contiene:
 
 ## 👨‍💻 Autores y colaboradores
 
-- *[Tu nombre]*
-- *[Nombre de tu compañero/a]*
+- *Fernando Rafael Solsol Choque*
+- *Diego Hans Schreiber Landeo*
 
 *GitHub:*  
-- Repositorio: [https://github.com/TU-USUARIO/repositorio](https://github.com/TU-USUARIO/repositorio)  
-- Usuario colaborador: CarloCorralesD (agregado como revisor del trabajo)
-
+- Repositorio: https://github.com/Diego-Schreiber/Pw2TareaJavaScript.git 
 ---
 
 ## 📌 Notas finales
